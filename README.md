@@ -1,1 +1,16 @@
-# ex374
+- 👋 Hello, I’m Anthony [@ProDev-anraj], Welcome to my GitHub profile!
+- 👀 I’m a professional automation engineer interested in Ansible and Python coding.
+- 🌱 I’m learning Kubernetes, Docker, Ansible, and Azure.
+- 💞️ I’m looking to collaborate on Opensource projects
+- 💼 My Skills**
+    - Python
+    - Ansible
+    - Kubernetes
+    - Docker
+    - Git
+    - Jenkins
+  - 📫 How to reach me ...
+    - Email: anraj4321@gmail.com
+    - LinkedIn: https://www.linkedin.com/in/anthony-j-81b6b41b/
+  - 🌟 About this Repo 🌟
+    - This Repo is created for learning and practicing the "Redhat Certified Specialist in Developing Automation with Ansible Automation Platform (EX374) course.
